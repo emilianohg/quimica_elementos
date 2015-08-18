@@ -548,8 +548,8 @@
 		"Simbolo":"P",
 		"n_atomico":"15",
 		"m_atomica":"30,973762",
-		"p_fusion":"44 (P4)",
-		"p_ebullicion":"280 (P4)",
+		"p_fusion":"44",
+		"p_ebullicion":"280",
 		"n_oxidacion":["+-3","+5"]
 	},
 	"Protactinio":{
