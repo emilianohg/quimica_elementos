@@ -30,14 +30,14 @@
 		"p_fusion":"994",
 		"p_ebullicion":"2607"
 	},
-	"Arg%C3%B3n":{
+	"Argón":{
 		"Simbolo":"Ar",
 		"n_atomico":"18",
 		"m_atomica":"39,948",
 		"p_fusion":"-189,4",
 		"p_ebullicion":"-185,9"
 	},
-	"Ars%C3%A9nico":{
+	"Arsénico":{
 		"Simbolo":"As",
 		"n_atomico":"33",
 		"m_atomica":"74,92159",
@@ -249,7 +249,7 @@
 		"p_fusion":"822",
 		"p_ebullicion":"1597"
 	},
-	"Fl%C3%BAor":{
+	"Flúor":{
 		"Simbolo":"F",
 		"n_atomico":"9",
 		"m_atomica":"18,9984032",
@@ -309,7 +309,7 @@
 		"p_ebullicion":"2830",
 		"n_oxidacion":["+2","+4"]
 	},
-	"Hidr%C3%B3geno":{
+	"Hidrógeno":{
 		"Simbolo":"H",
 		"n_atomico":"1",
 		"m_atomica":"1,00794",
@@ -386,7 +386,7 @@
 		"p_ebullicion":"774",
 		"n_oxidacion":["+1"]
 	},
-	"Kript%C3%B3n":{
+	"Kriptón":{
 		"Simbolo":"Kr",
 		"n_atomico":"36",
 		"m_atomica":"83,8",
@@ -468,7 +468,7 @@
 		"p_fusion":"-",
 		"p_ebullicion":"-"
 	},
-	"Nitr%C3%B3geno":{
+	"Nitrógeno":{
 		"Simbolo":"N",
 		"n_atomico":"7",
 		"m_atomica":"14,00674",
@@ -499,14 +499,14 @@
 		"p_fusion":"1010",
 		"p_ebullicion":"3127"
 	},
-	"Ne%C3%B3n":{
+	"Neón":{
 		"Simbolo":"Ne",
 		"n_atomico":"10",
 		"m_atomica":"20,1797",
 		"p_fusion":"-248,7",
 		"p_ebullicion":"-246,1"
 	},
-	"N%C3%ADquel":{
+	"Níquel":{
 		"Simbolo":"Ni",
 		"n_atomico":"28",
 		"m_atomica":"58,69",
@@ -528,7 +528,7 @@
 		"p_fusion":"640",
 		"p_ebullicion":"3902"
 	},
-	"Ox%C3%ADgeno":{
+	"Oxígeno":{
 		"Simbolo":"O",
 		"n_atomico":"8",
 		"m_atomica":"15,9994",
@@ -544,7 +544,7 @@
 		"p_ebullicion":"5027",
 		"n_oxidacion":["+2","+3","+4","+5","+6","+7","+8"]
 	},
-	"F%C3%B3sforo":{
+	"Fósforo":{
 		"Simbolo":"P",
 		"n_atomico":"15",
 		"m_atomica":"30,973762",
@@ -659,7 +659,7 @@
 		"p_ebullicion":"3727",
 		"n_oxidacion":["+2","+3"]
 	},
-	"Rad%C3%B3n":{
+	"Radón":{
 		"Simbolo":"Rn",
 		"n_atomico":"86",
 		"m_atomica":"222,0176",
@@ -727,7 +727,7 @@
 		"p_fusion":"1072",
 		"p_ebullicion":"1778"
 	},
-	"Esta%C3%B1o":{
+	"Estaño":{
 		"Simbolo":"Sn",
 		"n_atomico":"50",
 		"m_atomica":"118,71",
@@ -855,7 +855,7 @@
 		"p_ebullicion":"5927",
 		"n_oxidacion":["+2","+3","+4","+5","+6"]
 	},
-	"Xen%C3%B3n":{
+	"Xenón":{
 		"Simbolo":"Xe",
 		"n_atomico":"54",
 		"m_atomica":"131,29",
@@ -877,7 +877,7 @@
 		"p_fusion":"824",
 		"p_ebullicion":"1193"
 	},
-	"Cinc":{
+	"Zinc":{
 		"Simbolo":"Zn",
 		"n_atomico":"30",
 		"m_atomica":"65,39",
